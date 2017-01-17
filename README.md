@@ -1,9 +1,10 @@
 # Programming Challenges
 
-- [ ] FizzBuzz
+- [x] FizzBuzz
 - [ ] Fibonacci Sequence
 - [ ] Prime Number Generator
 - [ ] Collatz Conjecture
+- [ ] Triangluar number generator
 - [ ] Reverse a String
 - [ ] Nickname/Password Generator
 - [ ] Towers of Hanoi
@@ -17,14 +18,17 @@
 - [ ] Eulerian Path
 - [ ] Benford's Law
 - [ ] Djikstra's Algorithm
+- [ ] Quine
 - [ ] Cipher encrypt/decrypt tool
 - [ ] Encrypt/Decrypt Algorithm
+- [ ] Enigma Machine Simulator
 - [ ] Image Viewer
 - [ ] Random Image Generator
 - [ ] Encrypt/Decrypt Text into an Image
 - [ ] Ulam Spiral
 - [ ] Pascal's Triangle
 - [ ] Sierpinski Triangle Generator
+- [ ] Mandelbrot set
 - [ ] Perlin Noise Algorithm
 - [ ] Conway's Game of Life
 - [ ] FTP Client
